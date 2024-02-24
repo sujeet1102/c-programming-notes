@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "fac913ddb90aff3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "516d50aade96a38d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a5ff8403193d9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pointers/basic-pointers/Pointer Declaration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "def13ca89debe049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pointers/basic-pointers/Pointer Size & Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9391eafe5250673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pointers/basic-pointers/Concept of Null.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "605b07a6e68051ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "efc64695a33882ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daff0627ca7ed117",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "6513af39a55783b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61a0ad30dfe3125c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf1625c9cbf52eb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "640a484bbe69d193",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a8a02d8eac22992",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pointers/basic-pointers/Pointer Declaration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "127905e699c81846",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pointers/basic-pointers/Pointer Declaration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfc37763c0c2dfd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b6a77599d84f063",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pointers/basic-pointers/Pointer Declaration.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9a5ff8403193d9f5",
+  "lastOpenFiles": [
+    "pointers/basic-pointers/Pointer Operations & Uses.md",
+    "pointers/basic-pointers/Pointer Size & Types.md",
+    "pointers/basic-pointers/Concept of Null.md",
+    "pointers/basic-pointers/Pointer Declaration.md",
+    "Untitled.canvas",
+    "Untitled",
+    "pointers/basic-pointers/Constants & Pointers.md",
+    "pointers/odd-ends",
+    "pointers/security-issues",
+    "pointers/structures-pointers",
+    "pointers/strings-pointers",
+    "pointers/arrays-pointers",
+    "pointers/functions-pointers",
+    "pointers/dynamic-memory-management",
+    "pointers/basic-pointers/Untitled",
+    "pointers/basic-pointers",
+    "2023-12-01.md"
+  ]
+}
